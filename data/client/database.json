@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8071335,
+    "ip": "52.170.235.102",
+    "port": 30012,
+    "remoteSubscriptionId": "747509fc0f2d4b5e9ba46e29a17d7705",
+    "ownerUUID": "2535412121147266",
+    "name": "AX SMP",
+    "motd": "have fun",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379859755137376,
+    "member": true,
+    "invite": {
+      "code": "oQNSKGq_jXw",
+      "ownerxuid": "2535412121147266",
+      "codeurl": "https://realms.gg/oQNSKGq_jXw"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelName": "AX smp",
+      "playersOnline": 3,
+      "maxPlayers": 10,
+      "gamemode": "Survival",
+      "gamemodeId": 1,
+      "version": "1.21.62",
+      "protocol": "776"
+    },
+    "owner": {
+      "xuid": "2535412121147266",
+      "displayName": "OneAXMan08",
+      "gamertag": "OneAXMan08",
+      "gamerScore": "6825",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 1d ago: Home"
+    },
+    "club": {
+      "id": "3379859755137376",
+      "tags": [
+        "textchatrequired",
+        "micoptional",
+        "allcontentok",
+        "competitive",
+        "cooperative",
+        "tournament",
+        "allages",
+        "everyoneiswelcome"
+      ],
+      "preferredColor": {
+        "primaryColor": "193e91",
+        "secondaryColor": "101836",
+        "tertiaryColor": "102c69"
+      },
+      "membersCount": 17542,
+      "followersCount": 17538,
+      "reportCount": 104,
+      "reportedItemsCount": 100
+    }
+  }
+]
