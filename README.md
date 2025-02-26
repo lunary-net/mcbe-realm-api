@@ -8,7 +8,7 @@ This project is an Express server that interacts with the Minecraft Realms API. 
 
     ```sh
     git clone https://github.com/lunary-net/mcbe-realm-api.git
-    cd realms-api-server
+    cd mcbe-realm-api
     ```
 
 2. Install dependencies:
